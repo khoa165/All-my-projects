@@ -9,9 +9,9 @@
 
 ### ***Ruby on Rails***
 [buddyUp](https://github.com/khoa165/buddyUp): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
-- Website: [buddyup.xyz](https://github.com/khoa165/buddyUp) <br />
+\- Website: [buddyup.xyz](https://github.com/khoa165/buddyUp) <br />
 [petNow](https://github.com/khoa165/petNow): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
-- Website: [petnow.herokuapp.com](http://petnow.herokuapp.com/) <br />
+\- Website: [petnow.herokuapp.com](http://petnow.herokuapp.com/) <br />
 
 
 ### ***Ruby***
