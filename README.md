@@ -5,6 +5,7 @@
 ### ***Java***
 [Fish Evolution game](https://github.com/khoa165/fish-evolution): Java + Processing graphic library. <br />
 [Tic-tac-toe game](https://github.com/khoa165/Tic-tac-toe): Java + Processing graphic library. <br />
+[Rock-paper-scissors game Pokemon version](https://github.com/khoa165/pokemon-rock-paper-scissors): Java + Processing graphic library. <br />
 
 
 ### ***Ruby on Rails***
