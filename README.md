@@ -2,6 +2,9 @@
 
 ###### I create this repository to motivate myself to code more. ######
 
+### ***Data Structures***
+[Data Structures](https://github.com/khoa165/data-structures): Java. <br />
+
 ### ***Java***
 [Fish Evolution game](https://github.com/khoa165/fish-evolution): Java + Processing graphic library. <br />
 [Tic-tac-toe game](https://github.com/khoa165/Tic-tac-toe): Java + Processing graphic library. <br />
