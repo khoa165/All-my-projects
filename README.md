@@ -2,6 +2,9 @@
 
 ###### I create this repository to motivate myself to code more. ######
 
+### ***My portfolio***
+[Portfolio](https://github.com/khoa165/my-portfolio): HTML, CSS, JavaScript, Bootstrap. <br />
+
 ### ***Data Structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
 
