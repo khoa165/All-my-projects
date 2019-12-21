@@ -31,6 +31,7 @@
 
 
 ### ***JavaScript***
+[Crazy keyboard](https://github.com/khoa165/crazy-keyboard): JavaScript, Howl.js, Paper.js <br />
 [Simple alarm clock](https://github.com/khoa165/alarm-clock-js): JavaScript, HTML, CSS, Bootstrap. <br />
 [Hexadecimal color game](https://github.com/khoa165/rgb-color-game): JavaScript, HTML, CSS, Bootstrap. <br />
 
