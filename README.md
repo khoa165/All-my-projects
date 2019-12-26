@@ -23,6 +23,9 @@
 ### ***Node.js***
 [Culture Project](https://github.com/monica22schmidt/Culture-Project): Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Bootstrap. <br />
 
+### ***React***
+[Simple Calculator](https://github.com/khoa165/simple-calculator): React. <br />
+
 ### ***Ruby***
 [Sokoban game with silly themes](https://github.com/khoa165/sokoban-themes): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
 [Snake game](https://github.com/khoa165/snake-game): Ruby + Gosu graphic library. <br />
