@@ -15,9 +15,9 @@
 [Rock-paper-scissors game Pokemon version](https://github.com/khoa165/pokemon-rock-paper-scissors): Java + Processing graphic library. <br />
 
 ### ***Ruby on Rails***
-[buddyUp](https://github.com/khoa165/buddyUp): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
+[Buddy Up](https://github.com/khoa165/buddyUp): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
 \- Website: [buddyup.xyz](https://github.com/khoa165/buddyUp) <br />
-[petNow](https://github.com/khoa165/petNow): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
+[Pet Now](https://github.com/khoa165/petNow): Ruby on Rails, PostgreSQL, HTML, CSS, JavaScript, Bootstrap, Heroku. <br />
 \- Website: [petnow.herokuapp.com](http://petnow.herokuapp.com/) <br />
 
 ### ***Node.js***
@@ -27,17 +27,15 @@
 [Simple Calculator](https://github.com/khoa165/simple-calculator): React. <br />
 
 ### ***Ruby***
-[Sokoban game with silly themes](https://github.com/khoa165/sokoban-themes): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
-[Snake game](https://github.com/khoa165/snake-game): Ruby + Gosu graphic library. <br />
-[Basic todo-list](https://github.com/khoa165/personalized-todo-list): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
-[The big bang theory info](https://github.com/khoa165/the-big-bang-theory): Ruby, JSON. <br />
-
+[Sokoban Game](https://github.com/khoa165/sokoban-themes): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
+[Snake Game](https://github.com/khoa165/snake-game): Ruby + Gosu graphic library. <br />
+[Basic Todo List](https://github.com/khoa165/personalized-todo-list): Ruby, Sinatra, HTML, CSS, JavaScript, Bootstrap. <br />
 
 ### ***JavaScript***
-[Crazy keyboard](https://github.com/khoa165/crazy-keyboard): JavaScript, Howl.js, Paper.js <br />
-[Simple alarm clock](https://github.com/khoa165/alarm-clock-js): JavaScript, HTML, CSS, Bootstrap. <br />
-[Hexadecimal color game](https://github.com/khoa165/rgb-color-game): JavaScript, HTML, CSS, Bootstrap. <br />
-
+[Crazy Keyboard](https://github.com/khoa165/crazy-keyboard): JavaScript, Howl.js, Paper.js <br />
+[Simple Alarm Clock](https://github.com/khoa165/alarm-clock-js): JavaScript, HTML, CSS, Bootstrap. <br />
+[Hexadecimal Color Game](https://github.com/khoa165/rgb-color-game): JavaScript, HTML, CSS, Bootstrap. <br />
 
 ### ***Trivial***
-[Morse encoder & decoder](https://github.com/khoa165/morse-code-encoder-decoder): Ruby. <br />
+[The Big Bang Theory Info](https://github.com/khoa165/the-big-bang-theory): Ruby, JSON. <br />
+[Morse Encoder & Decoder](https://github.com/khoa165/morse-code-encoder-decoder): Ruby. <br />
