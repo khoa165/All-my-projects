@@ -3,7 +3,7 @@
 ###### I create this repository to motivate myself to code more. ######
 
 ### ***My portfolio***
-[Portfolio version 2](https://www.khoa165.com/): React, HTML, CSS, JavaScript, Reactstrap (Bootstrap), Semantic UI React (Semantic UI), various animation packages. <br />
+[Portfolio version 2](https://www.khoa165.com/): React, JavaScript, Sass, Reactstrap (Bootstrap), Semantic UI React (Semantic UI), EmailJS for contact form and sending email, Cloudinary for images, various animation packages. <br />
 [Portfolio version 1](https://khoa165.github.io/portfolio-v1/): HTML, CSS, JavaScript, Bootstrap. <br />
 
 ### ***Data Structures***
