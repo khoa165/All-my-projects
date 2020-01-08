@@ -11,7 +11,7 @@
 
 ### ***MERN stack (MongoDB, Express.js, React, Node.js)***
 [Contact Manager](https://github.com/khoa165/contact-manager): Node.js, Express.js, MongoDB, JSON Web Token authentication, React with Hooks and Context API, Sass, Reactstrap (Bootstrap). <br />
-- Website: [intouch4ever.herokuapp.com](http://intouch4ever.herokuapp.com) <br />
+\- Website: [intouch4ever.herokuapp.com](http://intouch4ever.herokuapp.com) <br />
 
 ### ***Node.js***
 [Culture Project](https://github.com/monica22schmidt/Culture-Project): Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Bootstrap. <br />
