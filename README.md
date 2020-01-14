@@ -16,7 +16,7 @@
 ### ***Node.js***
 [Yolo Adventure](https://github.com/khoa165/yolo-adventure): Node.js, Express.js, MongoDB, Passport.js authentication, Google Map API, HTML, CSS, JavaScript, Bootstrap. <br />
 [Culture Project](https://github.com/monica22schmidt/Culture-Project): Node.js, Express.js, MongoDB, HTML, CSS, JavaScript, Bootstrap. <br />
-[Telegram Bot(https://github.com/khoa165/telegram-bot): Node.js, Telegram bot API, Oxford Dictionary API. <br />
+[Telegram Bot](https://github.com/khoa165/telegram-bot): Node.js, Telegram bot API, Oxford Dictionary API. <br />
 
 ### ***React***
 [Movies 4Fun](https://github.com/khoa165/movies-4fun): TMDB API, React with Hooks and Context API, Sass, Reactstrap (Bootstrap). <br />
