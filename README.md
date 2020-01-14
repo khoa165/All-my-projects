@@ -2,14 +2,26 @@
 
 ###### I create this repository to motivate myself to code more. ######
 
+Sections | Projects
+---------- | --------
+[Portfolio](#my-portfolio) | ***Portfolio v2***, Portfolio v1
+[Data Structures](#data-structures) | Data Structures
+[MERN](#mern-mongodb-expressjs-react-nodejs) | ***Contact Manager***
+[Node.js](#nodejs) | ***Yolo Adventure***, ***Culture Project***, Telegram Bot
+[React](#react) | ***Movies 4Fun***, ***Dev Stalker***
+[Ruby on Rails](#ruby-on-rails) | ***Buddy Up***, Pet Now
+[Java](#java) | ***BuddE Network***, ***Fish Evolution***, Tic-tac-toe, Rock-paper-scissors Pokemon version
+[JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
+[Ruby](#ruby) | Sokoban Game, Snake Game, Basic Todo List, The Big Bang Theory, Nobel Laureates Info, Morse Encoder & Decoder
+
 ### ***My portfolio***
 [Portfolio version 2](https://www.khoa165.com/): React, JavaScript, Sass, Reactstrap (Bootstrap), Semantic UI React (Semantic UI), EmailJS for contact form and sending email, Cloudinary for images, various animation packages. <br />
 [Portfolio version 1](https://khoa165.github.io/portfolio-v1/): HTML, CSS, JavaScript, Bootstrap. <br />
 
-### ***Data Structures***
+### ***Data structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
 
-### ***MERN stack (MongoDB, Express.js, React, Node.js)***
+### ***MERN (MongoDB, Express.js, React, Node.js)***
 [Contact Manager](https://github.com/khoa165/contact-manager): Node.js, Express.js, MongoDB, JSON Web Token authentication, React with Hooks and Context API, Sass, Reactstrap (Bootstrap). <br />
 \- Website: [intouch4ever.herokuapp.com](http://intouch4ever.herokuapp.com) <br />
 
@@ -33,9 +45,9 @@
 
 ### ***Java***
 [BuddE Network](https://github.com/khoa165/BuddENetwork): Java + JavaFX graphic library. <br />
-[Fish Evolution game](https://github.com/khoa165/fish-evolution): Java + Processing graphic library. <br />
-[Tic-tac-toe game](https://github.com/khoa165/Tic-tac-toe): Java + Processing graphic library. <br />
-[Rock-paper-scissors game Pokemon version](https://github.com/khoa165/pokemon-rock-paper-scissors): Java + Processing graphic library. <br />
+[Fish Evolution](https://github.com/khoa165/fish-evolution): Java + Processing graphic library. <br />
+[Tic-tac-toe](https://github.com/khoa165/Tic-tac-toe): Java + Processing graphic library. <br />
+[Rock-paper-scissors Pokemon version](https://github.com/khoa165/pokemon-rock-paper-scissors): Java + Processing graphic library. <br />
 
 ### ***JavaScript***
 [Crazy Keyboard](https://github.com/khoa165/crazy-keyboard): JavaScript, Howl.js, Paper.js <br />
