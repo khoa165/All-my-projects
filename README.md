@@ -8,7 +8,7 @@ Sections | Projects
 [Data Structures](#data-structures) | Data Structures
 [MERN](#mern-mongodb-expressjs-react-nodejs) | ***Contact Manager***
 [Node.js](#nodejs) | ***Yolo Adventure***, ***Culture Project***, Telegram Bot
-[React](#react) | ***Movies 4Fun***, ***Dev Stalker***
+[React](#react) | ***Movies 4Fun***, ***Dev Stalker***, ***Bug Tracker***
 [Ruby on Rails](#ruby-on-rails) | ***Buddy Up***, Pet Now
 [Java](#java) | ***BuddE Network***, ***Fish Evolution***, Tic-tac-toe, Rock-paper-scissors Pokemon version
 [JavaScript](#javascript) | Crazy Keyboard, Simple Alarm Clock, Hexadecimal Color Game
@@ -35,6 +35,7 @@ Sections | Projects
 \- Website: [movies4fun.netlify.com](https://movies4fun.netlify.com/) (currently not working due to API key)<br />
 [Dev Stalker](https://github.com/khoa165/dev-stalker): GitHub API, React with Hooks and Context API, Reactstrap (Bootstrap). <br />
 \- Website: [devstalker.netlify.com](https://devstalker.netlify.com/) <br />
+[Bug Tracker](https://github.com/khoa165/bug-tracker-redux): db.json, React, Redux, Materialize CSS. <br />
 [Simple Calculator](https://github.com/khoa165/simple-calculator): React. <br />
 
 ### ***Ruby on Rails***
