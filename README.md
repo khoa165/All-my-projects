@@ -22,6 +22,7 @@ Sections | Projects
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
 
 ### ***MERN (MongoDB, Express.js, React, Node.js)***
+[Dev Connector](https://github.com/khoa165/dev-connector) *(Currently under development)*: Node.js, Express.js, MongoDB, JSON Web Token authentication, React, Redux, Sass, Reactstrap (Bootstrap). <br />
 [Contact Manager](https://github.com/khoa165/contact-manager): Node.js, Express.js, MongoDB, JSON Web Token authentication, React with Hooks and Context API, Sass, Reactstrap (Bootstrap). <br />
 \- Website: [intouch4ever.herokuapp.com](http://intouch4ever.herokuapp.com) <br />
 
