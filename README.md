@@ -15,8 +15,8 @@ Sections | Projects
 [Ruby](#ruby) | Sokoban Game, Snake Game, Basic Todo List, The Big Bang Theory, Nobel Laureates Info, Morse Encoder & Decoder
 
 ### ***My portfolio***
-[Portfolio version 2](https://www.khoa165.com/): React, JavaScript, Sass, Reactstrap (Bootstrap), Semantic UI React (Semantic UI), EmailJS for contact form and sending email, Cloudinary for images, various animation packages. <br />
-[Portfolio version 1](https://khoa165.github.io/portfolio-v1/): HTML, CSS, JavaScript, Bootstrap. <br />
+[Portfolio version 2](https://www.khoa165.com/)
+[Portfolio version 1](https://khoa165.github.io/portfolio-v1/)
 
 ### ***Data structures***
 [Data Structures](https://github.com/khoa165/data-structures): Java. <br />
