@@ -1,6 +1,6 @@
 # All-my-projects
 
-###### I create this repository to motivate myself to code more. ######
+###### Document my journey to become a software developer. ######
 
 Sections | Projects
 ---------- | --------
